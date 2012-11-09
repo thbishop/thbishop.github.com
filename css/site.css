@@ -2,6 +2,10 @@ body {
   background-image: url('/images/fabric_plaid.png');
 }
 
+.separator {
+  border-color: #ddd;
+}
+
 .jumbo {
   font-size: 48px;
 }
