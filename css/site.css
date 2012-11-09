@@ -1,3 +1,7 @@
+#body {
+  background-image: url('images/fabric_plaid.png');
+}
+
 .jumbo {
   font-size: 48px;
 }
